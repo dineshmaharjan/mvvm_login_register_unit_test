@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cloudyfox</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_pswd">Enter Password</string>
+    <string name="signin">Sign In</string>
+    <string name="forgot_password">Forgot Password ?  </string>
+    <string name="signup">Sign Up</string>
+    <string name="enter_fullname">Enter Full Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_pswd">Confirm Password</string>
+    <string name="already_have_account">Already have an account ? </string>
+    <string name="dont_have_account">Don\'t have an account ?</string>
+    <string name="error_password">Password is empty</string>
+    <string name="error_username">Username is empty</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email">Email</string>
+    <string name="error_all_fields">All fields are required!!</string>
+    <string name="error_fullname">Full name is empty</string>
+    <string name="error_email">Email address is not valid</string>
+    <string name="error_confirm_pswd">Confirm password is not matched</string>
+    <string name="error_password_legth">Minium length should be 6</string>
+</resources>
